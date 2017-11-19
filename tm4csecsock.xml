@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<cdtprojectproperties>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
+<language name="C++ Source File">
+<includepath workspace_path="true">/${ProjName}/rsa</includepath>
+<includepath workspace_path="true">/${ProjName}/drivers</includepath>
+<includepath workspace_path="true">/${ProjName}/aes</includepath>
+<includepath workspace_path="true">/${ProjName}/secsock</includepath>
+<includepath>Debug/${XDC_INCLUDE_PATH}</includepath>
+<includepath>/home/navin/tivaware/examples/boards/ek-tm4c129exl</includepath>
+<includepath>/home/navin/tivaware</includepath>
+<includepath>${CG_TOOL_ROOT}/include</includepath>
+<includepath workspace_path="true">/${ProjName}/FreeRTOS-Plus-TCP/include</includepath>
+<includepath workspace_path="true">/${ProjName}/FreeRTOS-Plus-TCP/portable/Compiler/CCS</includepath>
+<includepath workspace_path="true">/${ProjName}/FreeRTOS-Plus-TCP/portable/NetworkInterface/TM4C129X</includepath>
+<includepath workspace_path="true">/${ProjName}</includepath>
+<includepath workspace_path="true">/${ProjName}/third_party/FreeRTOS/Source/include</includepath>
+<includepath workspace_path="true">/${ProjName}/third_party/FreeRTOS/Source/portable/CCS/ARM_CM4F</includepath>
+
+</language>
+<language name="Assembly Source File">
+<includepath workspace_path="true">/${ProjName}/rsa</includepath>
+<includepath workspace_path="true">/${ProjName}/drivers</includepath>
+<includepath workspace_path="true">/${ProjName}/aes</includepath>
+<includepath workspace_path="true">/${ProjName}/secsock</includepath>
+<includepath>Debug/${XDC_INCLUDE_PATH}</includepath>
+<includepath>/home/navin/tivaware/examples/boards/ek-tm4c129exl</includepath>
+<includepath>/home/navin/tivaware</includepath>
+<includepath>${CG_TOOL_ROOT}/include</includepath>
+<includepath workspace_path="true">/${ProjName}/FreeRTOS-Plus-TCP/include</includepath>
+<includepath workspace_path="true">/${ProjName}/FreeRTOS-Plus-TCP/portable/Compiler/CCS</includepath>
+<includepath workspace_path="true">/${ProjName}/FreeRTOS-Plus-TCP/portable/NetworkInterface/TM4C129X</includepath>
+<includepath workspace_path="true">/${ProjName}</includepath>
+<includepath workspace_path="true">/${ProjName}/third_party/FreeRTOS/Source/include</includepath>
+<includepath workspace_path="true">/${ProjName}/third_party/FreeRTOS/Source/portable/CCS/ARM_CM4F</includepath>
+
+</language>
+<language name="Assembly Source File">
+<includepath workspace_path="true">/${ProjName}/rsa</includepath>
+<includepath workspace_path="true">/${ProjName}/drivers</includepath>
+<includepath workspace_path="true">/${ProjName}/aes</includepath>
+<includepath workspace_path="true">/${ProjName}/secsock</includepath>
+<includepath>Debug/${XDC_INCLUDE_PATH}</includepath>
+<includepath>/home/navin/tivaware/examples/boards/ek-tm4c129exl</includepath>
+<includepath>/home/navin/tivaware</includepath>
+<includepath>${CG_TOOL_ROOT}/include</includepath>
+<includepath workspace_path="true">/${ProjName}/FreeRTOS-Plus-TCP/include</includepath>
+<includepath workspace_path="true">/${ProjName}/FreeRTOS-Plus-TCP/portable/Compiler/CCS</includepath>
+<includepath workspace_path="true">/${ProjName}/FreeRTOS-Plus-TCP/portable/NetworkInterface/TM4C129X</includepath>
+<includepath workspace_path="true">/${ProjName}</includepath>
+<includepath workspace_path="true">/${ProjName}/third_party/FreeRTOS/Source/include</includepath>
+<includepath workspace_path="true">/${ProjName}/third_party/FreeRTOS/Source/portable/CCS/ARM_CM4F</includepath>
+
+</language>
+<language name="C Source File">
+<includepath workspace_path="true">/${ProjName}/rsa</includepath>
+<includepath workspace_path="true">/${ProjName}/drivers</includepath>
+<includepath workspace_path="true">/${ProjName}/aes</includepath>
+<includepath workspace_path="true">/${ProjName}/secsock</includepath>
+<includepath>Debug/${XDC_INCLUDE_PATH}</includepath>
+<includepath>/home/navin/tivaware/examples/boards/ek-tm4c129exl</includepath>
+<includepath>/home/navin/tivaware</includepath>
+<includepath>${CG_TOOL_ROOT}/include</includepath>
+<includepath workspace_path="true">/${ProjName}/FreeRTOS-Plus-TCP/include</includepath>
+<includepath workspace_path="true">/${ProjName}/FreeRTOS-Plus-TCP/portable/Compiler/CCS</includepath>
+<includepath workspace_path="true">/${ProjName}/FreeRTOS-Plus-TCP/portable/NetworkInterface/TM4C129X</includepath>
+<includepath workspace_path="true">/${ProjName}</includepath>
+<includepath workspace_path="true">/${ProjName}/third_party/FreeRTOS/Source/include</includepath>
+<includepath workspace_path="true">/${ProjName}/third_party/FreeRTOS/Source/portable/CCS/ARM_CM4F</includepath>
+
+</language>
+<language name="Linker Command File">
+
+</language>
+<language name="Linker Command File">
+
+</language>
+<language name="Linker Command File">
+
+</language>
+</section>
+<section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.Macros">
+<language name="C++ Source File">
+<macro>
+<name>${XDC_SYMBOLS}</name><value/>
+</macro>
+<macro>
+<name>CORTEX_M4</name><value/>
+</macro>
+<macro>
+<name>ccs</name><value>"ccs"</value>
+</macro>
+<macro>
+<name>PART_TM4C129ENCPDT</name><value/>
+</macro>
+<macro>
+<name>TARGET_IS_TM4C129_RA1</name><value/>
+</macro>
+
+</language>
+<language name="Assembly Source File">
+<macro>
+<name>${XDC_SYMBOLS}</name><value/>
+</macro>
+<macro>
+<name>CORTEX_M4</name><value/>
+</macro>
+<macro>
+<name>ccs</name><value>"ccs"</value>
+</macro>
+<macro>
+<name>PART_TM4C129ENCPDT</name><value/>
+</macro>
+<macro>
+<name>TARGET_IS_TM4C129_RA1</name><value/>
+</macro>
+
+</language>
+<language name="Assembly Source File">
+<macro>
+<name>${XDC_SYMBOLS}</name><value/>
+</macro>
+<macro>
+<name>CORTEX_M4</name><value/>
+</macro>
+<macro>
+<name>ccs</name><value>"ccs"</value>
+</macro>
+<macro>
+<name>PART_TM4C129ENCPDT</name><value/>
+</macro>
+<macro>
+<name>TARGET_IS_TM4C129_RA1</name><value/>
+</macro>
+
+</language>
+<language name="C Source File">
+<macro>
+<name>${XDC_SYMBOLS}</name><value/>
+</macro>
+<macro>
+<name>CORTEX_M4</name><value/>
+</macro>
+<macro>
+<name>ccs</name><value>"ccs"</value>
+</macro>
+<macro>
+<name>PART_TM4C129ENCPDT</name><value/>
+</macro>
+<macro>
+<name>TARGET_IS_TM4C129_RA1</name><value/>
+</macro>
+
+</language>
+<language name="Linker Command File">
+
+</language>
+<language name="Linker Command File">
+
+</language>
+<language name="Linker Command File">
+
+</language>
+</section>
+</cdtprojectproperties>
